@@ -16,3 +16,4 @@ touch requirements.txt
 
 
 echo "Directory and file structure created successfully."
+
